@@ -1,2 +1,2 @@
 # eaaf.shorebirds
-This code supports the findings of Studds et. al 2017. Rapid population decline in migratory shorebirds relying on Yellow Sea tidal mudflats as stopover sites. Nature Communications 8:14895 https://doi.org/10.1038/ncomms14895
+This code supports the findings of Studds et. al 2017. Rapid population decline in migratory shorebirds relying on Yellow Sea tidal mudflats as stopover sites. Nature Communications 8:14895 https://doi.org/10.1038/ncomms14895.
